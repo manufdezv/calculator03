@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Calculator03Application {
 
-	public static void main(String[] args) {
-		SpringApplication.run(Calculator03Application.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(Calculator03Application.class, args);
+    }
 
 }
